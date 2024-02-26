@@ -10,12 +10,8 @@ In the project directory, you can run:
 ### `npm install recharts`
 Recharts library is used to create graphs.
 
-### 'npm install react-scripts --save'
+### `npm install react-scripts --save`
 To save node modules folder
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 
 ### `npm start`
 
